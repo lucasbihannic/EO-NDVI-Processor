@@ -1,0 +1,5 @@
+satsearch
+requests
+rasterio
+numpy
+matplotlib
